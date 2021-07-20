@@ -1,0 +1,12 @@
+﻿  Airport.c
+  AirportManager.c
+c:\users\matan\onedrive\desktop\שנה ב'\c\hw2_vs_2017\airportmanager.c(116): warning C4090: 'function': different 'const' qualifiers
+  Company.c
+c:\users\matan\onedrive\desktop\שנה ב'\c\hw2_vs_2017\company.c(57): warning C4090: 'function': different 'const' qualifiers
+  Date.c
+  Flight.c
+  General.c
+  listGen.c
+  main.c
+  Generating Code...
+  HW2.vcxproj -> C:\Users\matan\OneDrive\Desktop\שנה ב'\C\HW2_VS_2017\x64\Debug\HW2.exe

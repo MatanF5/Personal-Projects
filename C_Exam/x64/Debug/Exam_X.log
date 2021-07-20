@@ -1,0 +1,8 @@
+﻿  GeneralList.c
+  main.c
+  q1.c
+  q2.c
+c:\users\matan\onedrive\desktop\c\exam_x_starter\q2.c(70): warning C4090: 'function': different 'const' qualifiers
+  q3.c
+  Generating Code...
+  Exam_X.vcxproj -> C:\Users\matan\OneDrive\Desktop\C\Exam_X_starter\x64\Debug\Exam_X.exe
