@@ -1,0 +1,32 @@
+[
+    {
+        "id": 12,
+        "name": "Harry Potter",
+        "description": "Wild Magician",
+        "isbn": "1234",
+        "page_count": 99,
+        "issued": true,
+        "author": "Jk Roll",
+        "year": 12
+    },
+    {
+        "id": 0,
+        "name": "Harry Motter",
+        "description": "Wild Hamster",
+        "isbn": "12332233",
+        "page_count": 34,
+        "issued": false,
+        "author": "Jk Roll",
+        "year": 33
+    },
+    {
+        "id": 33,
+        "name": "The Wild Turtle",
+        "description": "About a wild Cat",
+        "isbn": "1233434",
+        "page_count": "33",
+        "issued": true,
+        "author": "Maatan",
+        "year": 22
+    }
+]
