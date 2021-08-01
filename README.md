@@ -11,3 +11,5 @@
 5) Python EXE2/3 is Python Hw I had
 
 6) Sudoko is a Sudoko solver I made using Python
+
+7) OS_HW1 is my OS homework in linux using C
