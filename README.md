@@ -14,4 +14,4 @@
 
 7) OS_HW1 is my OS homework in linux using C
 
-8) Space-Findder is a React/Typescript Project
+8) Space-Finder is a React/Typescript Project
