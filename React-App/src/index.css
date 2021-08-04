@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.wrapper {
+margin: auto;
+width: 70%;
+}
+
+/* Add a black background color to the top navigation */
+.navbar {
+background-color: rgb(75, 160, 185);
+overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+background-color: rgb(175, 31, 31);
+color: black;
+}
+
+/* Add a color to the active/current link */
+.navbar a.active {
+background-color: #00e708;
+color: rgb(255, 255, 255);
+}
