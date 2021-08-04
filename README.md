@@ -14,3 +14,4 @@
 
 7) OS_HW1 is my OS homework in linux using C
 
+8) React-App is a web app I made using Typescript/React
