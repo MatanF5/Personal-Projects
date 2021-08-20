@@ -1,6 +1,6 @@
 # Personal-Projects
 
-1) Books_Python is a project I made using python and PyQt5 with Gui
+1) Library_Python is a project I made using python and PyQt5 with Gui
 
 2) C_Project is a project I made using C as part of a course
 
@@ -15,3 +15,5 @@
 7) OS_HW1 is my OS homework in linux using C
 
 8) React-App is a web app I made using Typescript/React
+
+9) Books_Python is a project i made in python
