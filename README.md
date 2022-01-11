@@ -4,16 +4,14 @@
 
 2) C_Project is a project I made using C as part of a course
 
-3) Final_Project is a project i made with Java JavaFx using OOP and Gui for a coruse
+3) C_Exam is the exam I had in my C Course
 
-4) C_Exam is the exam I had in my C Course
+4) Python EXE2/3 is Python Hw I had
 
-5) Python EXE2/3 is Python Hw I had
+5) Sudoko is a Sudoko solver I made using Python
 
-6) Sudoko is a Sudoko solver I made using Python
+6) OS_HW1 is my OS homework in linux using C
 
-7) OS_HW1 is my OS homework in linux using C
+7) React-App is a web app I made using Typescript/React
 
-8) React-App is a web app I made using Typescript/React
-
-9) Books_Python is a project i made in python
+8) Books_Python is a project i made in python
